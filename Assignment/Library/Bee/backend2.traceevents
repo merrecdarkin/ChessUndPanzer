@@ -1,0 +1,212 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1696733048246402, "dur":25057, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733048271466, "dur":299, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733048271857, "dur":693, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733048272750, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1696733048272892, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1696733048273012, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level10.resS" }}
+,{ "pid":12345, "tid":0, "ts":1696733048273186, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level12" }}
+,{ "pid":12345, "tid":0, "ts":1696733048273388, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level14.resS" }}
+,{ "pid":12345, "tid":0, "ts":1696733048273745, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1696733048273866, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1696733048274055, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level7" }}
+,{ "pid":12345, "tid":0, "ts":1696733048274110, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/level7.resS" }}
+,{ "pid":12345, "tid":0, "ts":1696733048274853, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":0, "ts":1696733048274938, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":0, "ts":1696733048277060, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048277302, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048277788, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048278395, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048278507, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048278663, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048279304, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048279517, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048279657, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048279811, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048280045, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048280186, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048280620, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048280908, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281188, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281298, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281443, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281540, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281787, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1696733048272597, "dur":9389, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733048281988, "dur":1050036, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733049332025, "dur":547, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733049332797, "dur":2381, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1696733048272855, "dur":9142, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696733048282000, "dur":4099, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696733048293290, "dur":4625, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1696733048297920, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733048298075, "dur":1095, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1696733048299173, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1696733048297919, "dur":2048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733048300555, "dur":182, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696733048342258, "dur":541125, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733048888311, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733048888310, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733048888490, "dur":241594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696733049130119, "dur":2783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1696733049132970, "dur":199058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696733048273385, "dur":8731, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696733048282120, "dur":871, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696733048282992, "dur":3160, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696733048286364, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696733048286500, "dur":160, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696733048301586, "dur":9400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets8.resource" }}
+,{ "pid":12345, "tid":2, "ts":1696733048311137, "dur":119781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets15.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1696733048431066, "dur":66694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1696733048497912, "dur":326710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level6.resS" }}
+,{ "pid":12345, "tid":2, "ts":1696733048824741, "dur":304238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1696733049129097, "dur":2791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level11" }}
+,{ "pid":12345, "tid":2, "ts":1696733049131965, "dur":200042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696733048272927, "dur":9081, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696733048282018, "dur":495, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696733048282513, "dur":3724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696733048286423, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696733048286490, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696733048286488, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696733048300211, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048301808, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048303548, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":3, "ts":1696733048306144, "dur":1796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048308141, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1696733048310531, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048312687, "dur":1534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048314368, "dur":25183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets14.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1696733048339774, "dur":17900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048357967, "dur":72898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048431015, "dur":66413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696733048497696, "dur":327171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level7.resS" }}
+,{ "pid":12345, "tid":3, "ts":1696733048824989, "dur":13281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level2.resS" }}
+,{ "pid":12345, "tid":3, "ts":1696733048838413, "dur":292021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level13" }}
+,{ "pid":12345, "tid":3, "ts":1696733049130534, "dur":9596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1696733049140207, "dur":191796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696733048273084, "dur":8973, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696733048282061, "dur":556, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696733048282617, "dur":3509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696733048286127, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1696733048286489, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696733048286583, "dur":452, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696733048286580, "dur":456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696733048293403, "dur":3839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696733048297349, "dur":916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696733048298338, "dur":63028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1696733048361560, "dur":69429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696733048496005, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696733048431146, "dur":65018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696733048496485, "dur":249197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level8.resS" }}
+,{ "pid":12345, "tid":4, "ts":1696733048745799, "dur":79187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1696733048830151, "dur":298494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level15.resS" }}
+,{ "pid":12345, "tid":4, "ts":1696733049128819, "dur":2721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level12.resS" }}
+,{ "pid":12345, "tid":4, "ts":1696733049131763, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696733049133821, "dur":198191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048273279, "dur":8788, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048282072, "dur":886, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048282959, "dur":3148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048286118, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1696733048286281, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048286460, "dur":870, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696733048286459, "dur":872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696733048391878, "dur":42173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":5, "ts":1696733048489498, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696733048434330, "dur":55307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1696733048489953, "dur":334999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1696733048830138, "dur":299230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1696733049129482, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level10.resS" }}
+,{ "pid":12345, "tid":5, "ts":1696733049132465, "dur":199540, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696733048273574, "dur":8554, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696733048282131, "dur":536, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696733048282668, "dur":3436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696733048286117, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1696733048286272, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1696733048286271, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment.exe" }}
+,{ "pid":12345, "tid":6, "ts":1696733048286483, "dur":825, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696733048286480, "dur":829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696733048372883, "dur":119312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1696733048492484, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1696733048497717, "dur":282879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level7" }}
+,{ "pid":12345, "tid":6, "ts":1696733048780687, "dur":57270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1696733048838234, "dur":292127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level13.resS" }}
+,{ "pid":12345, "tid":6, "ts":1696733049130465, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1696733049132966, "dur":199048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696733048273711, "dur":8428, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696733048282143, "dur":545, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696733048282689, "dur":3464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696733048286353, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696733048286498, "dur":628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696733048286495, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696733048384871, "dur":48415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1696733048433463, "dur":63816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1696733048497441, "dur":248309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level8" }}
+,{ "pid":12345, "tid":7, "ts":1696733048760459, "dur":69614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level4.resS" }}
+,{ "pid":12345, "tid":7, "ts":1696733048830375, "dur":299050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level15" }}
+,{ "pid":12345, "tid":7, "ts":1696733049129609, "dur":2895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1696733049132683, "dur":199342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696733048273763, "dur":8398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696733048282166, "dur":949, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696733048283115, "dur":3034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696733048286151, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1696733048286369, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Griffith\\VR dev\\2022.3.4f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696733048286366, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696733048286480, "dur":1004, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696733048286477, "dur":1008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696733048398065, "dur":94374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":8, "ts":1696733048492626, "dur":252950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level9.resS" }}
+,{ "pid":12345, "tid":8, "ts":1696733048745703, "dur":85215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level6" }}
+,{ "pid":12345, "tid":8, "ts":1696733048831030, "dur":500857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level14" }}
+,{ "pid":12345, "tid":9, "ts":1696733048273852, "dur":8321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696733048282177, "dur":1292, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696733048283469, "dur":2659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696733048286128, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1696733048286472, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696733048286470, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696733048287170, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696733048300917, "dur":71001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1696733048372089, "dur":61164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets10.resource" }}
+,{ "pid":12345, "tid":9, "ts":1696733048433424, "dur":695963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1696733049129599, "dur":2585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level10" }}
+,{ "pid":12345, "tid":9, "ts":1696733049132262, "dur":199751, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048274034, "dur":8151, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048282189, "dur":1224, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048283413, "dur":2741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048286155, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1696733048286491, "dur":102, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696733048286901, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696733048431752, "dur":288, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048372230, "dur":59840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":10, "ts":1696733048432722, "dur":312937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":10, "ts":1696733048824941, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696733048745760, "dur":84335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level5.resS" }}
+,{ "pid":12345, "tid":10, "ts":1696733048830480, "dur":299582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level14.resS" }}
+,{ "pid":12345, "tid":10, "ts":1696733049130166, "dur":2535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1696733049132791, "dur":199218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048274116, "dur":8082, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048282204, "dur":2016, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048284221, "dur":1881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048286126, "dur":6219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048404215, "dur":91330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1696733048496501, "dur":284000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level9" }}
+,{ "pid":12345, "tid":11, "ts":1696733049128722, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733048780595, "dur":348213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level4" }}
+,{ "pid":12345, "tid":11, "ts":1696733049131441, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696733049128937, "dur":2600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level12" }}
+,{ "pid":12345, "tid":11, "ts":1696733049131880, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1696733049133667, "dur":198367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696733048274172, "dur":8051, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696733048282223, "dur":543, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696733048282766, "dur":3339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696733048286262, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696733048286367, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696733048286457, "dur":105, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696733048286567, "dur":333, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\merre\\Assignment\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696733048286564, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Griffith/GameDev/Betatest/Assignment_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696733048302204, "dur":60122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1696733048362508, "dur":68401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":12, "ts":1696733048431155, "dur":697785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1696733049129043, "dur":2838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Griffith/GameDev/Betatest/Assignment_Data/level11.resS" }}
+,{ "pid":12345, "tid":12, "ts":1696733049132014, "dur":199987, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696733049339313, "dur":1315, "ph":"X", "name": "ProfilerWriteOutput" }
+,
